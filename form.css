@@ -1,0 +1,53 @@
+/* adding styling to our web site  */
+#heading{
+    text-align: center;
+    /* color: rgb(0, 0, 0); */
+    color: rgb(32 181 181);
+    font-weight: 700;
+}
+.container{
+    margin: 16px 5px;
+    /* color:rgb(0, 0, 0); */
+    color: rgb(10 16 199);
+}
+#para1{
+    color: red;
+}
+#address input {
+    
+    /* width: 23px; */
+    /* padding-bottom: 5px; */
+    height: 44px;
+    width: 154px;
+}
+.genders{
+    margin-left: 67px;
+    /* padding-bottom: 4px; */
+    /* margin-bottom: 3px; */
+}
+#gen{
+    /* margin-top: 3px; */
+    margin-top: 26px;
+    margin-bottom: -20px;
+
+}
+#instruction{
+    color: red;
+    /* font-weight: bold; */
+}
+.btn{
+    border: 3px solid black;
+    border: 2px solid darkcyan;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 513px;
+    color: sienna;
+    color: #560fe3;
+}
+body{
+    /* background-color: aqua; */
+    background-color: #5d665f;
+}
+.btn:hover{
+    border: 4px solid red;
+}
